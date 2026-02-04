@@ -1,0 +1,10 @@
+function login() {
+  let roll = document.getElementById("roll").value;
+  let pass = document.getElementById("pass").value;
+
+  if (roll == "CSE101" && pass == "rahul123") {
+    window.location = "dashboard.html";
+  } else {
+    document.getElementById("msg").innerHTML = "Invalid Login";
+  }
+}
