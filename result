@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Result Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>Welcome Rahul Mudgal</h2>
+<p>Father's Name: Gajendra Mudgal</p>
+
+<div class="result">
+
+<h3>Semester-1 (CGPA: 6.55)</h3>
+BCSE101 – B | BMAS101 – C+ | BPHY101 – B | BENG101 – B+ | BCSE102 – B | BEEE101 – C+
+
+<h3>Semester-2 (SPI: 6.70 | CPI: 6.66)</h3>
+Data Structures – A | OOP – A- | Maths-II – B | Digital – B
+
+<h3>Semester-3 (SPI: 6.49)</h3>
+DBMS – B+ | OS – B | CN – B | Java – A-
+
+<h3>Semester-4 (SPI: 7.00)</h3>
+DAA – A | Microprocessor – B+ | Web – A | SE – A-
+
+<h3>Semester-5 (SPI: 6.97)</h3>
+ML – A- | Cloud – B+ | Cyber – A | MAD – A- | Project – A+
+
+<h2>Final CPI: 6.97</h2>
+<h2>Result: PASS</h2>
+
+</div>
+
+</body>
+</html>
